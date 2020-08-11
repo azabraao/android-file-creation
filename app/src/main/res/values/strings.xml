@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FileExample</string>
+    <string name="recuperar">recuperar</string>
+    <string name="salvar">Salvar</string>
+    <string name="could_not_write">Arquivo não encontrado</string>
+    <string name="file_not_found">Arquivo não encontrado</string>
+</resources>
